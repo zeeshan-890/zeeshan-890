@@ -1,5 +1,123 @@
-#  About Me:
- I’m currently working on:<br>An AI-based real-time intrusion detection system using C++, machine learning, and network security protocols.<br><br> I’m looking to collaborate on:<br>Open-source security tools, MERN stack projects, or anything related to React and Next.js.<br><br> I’m looking for help with:<br>Improving real-time performance of WebRTC video calls and mastering advanced Tailwind CSS design systems.<br><br> I’m currently learning:<br>Next.js, Zustand, and advanced data structures and algorithms (DSA) in C++.<br><br> Ask me about:<br>Building scalable full-stack applications, setting up WebSockets in chat apps, or integrating Spring Boot with React.
+<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Abbas</h1>
+<h3 align="center">🚀 Full Stack AI Engineer | MERN Stack Developer | Building Scalable & Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeeshan-890&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 BS Artificial Intelligence — NUST  
+- 💻 Full Stack Developer (MERN + Next.js)  
+- 🤖 Building AI-powered products & automation systems  
+- ⚡ Focused on scalable backend systems & clean UI  
+- 🚀 Creator of **VIRALIX** & **CREZUMIC**
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+
+### 🧰 Tools & Tech
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeeshan-890&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/zeeshan-890" alt="Zeeshan's GitHub chart" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 VIRALIX — AI Social Media Management Tool
+- Multi-platform publishing (Facebook, Instagram, TikTok, YouTube)
+- AI content generation using Google Gemini
+- Bull Queue for job scheduling
+- Real-time analytics dashboard
+- JWT + Google OAuth authentication
+
+---
+
+### 💼 CREZUMIC — Resume & Portfolio Builder
+- ATS resume + portfolio creation
+- Custom subdomains
+- 30+ templates
+- Resume & JD optimization
+- Job tracking system
+
+---
+
+## 💼 Experience
+
+### MERN Full Stack Developer Intern — BloodShare
+- Built scalable backend using Node.js, MongoDB, Redis  
+- Implemented Meta WhatsApp API + Google OAuth  
+- Developed real-time chat using WebSockets  
+- Built admin panel & landing page using React + Tailwind  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:zzabbaskhan830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/zeeshan-890">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Building intelligent systems that scale and solve real-world problems"
+</p>
 
 
 ##  Socials:
