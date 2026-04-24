@@ -152,10 +152,10 @@ end-to-end in React + Tailwind.
 
 ---
 
-## 🏆 GitHub Trophies
+## � Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-890&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -163,9 +163,15 @@ end-to-end in React + Tailwind.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zeeshan-890/zeeshan-890/output/github-contribution-grid-snake-dark.svg" />
+  <img width="800" src="https://raw.githubusercontent.com/zeeshan-890/zeeshan-890/output/github-contribution-grid-snake-dark.svg" />
 </div>
+---
 
+## 🔥 Detailed Contribution Activity
+
+<div align="center">
+  <img width="800" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight" />
+</div>
 ---
 
 ## 📫 Let's Talk
