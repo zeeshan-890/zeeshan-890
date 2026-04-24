@@ -1,145 +1,192 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Abbas</h1>
-<h3 align="center">🚀 Full Stack AI Engineer | MERN Stack Developer | Building Scalable & Intelligent Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan-890&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Zeeshan+Abbas+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+VIRALIX+%26+CREZUMIC;Open+to+Remote+%2F+Freelance+Work" alt="Typing SVG" />
 
----
+<br/>
 
-## 🧠 About Me
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=zeeshan-890&style=for-the-badge&color=0e75b6" />
 
-- 🎓 BS Artificial Intelligence — NUST  
-- 💻 Full Stack Developer (MERN + Next.js)  
-- 🤖 Building AI-powered products & automation systems  
-- ⚡ Focused on scalable backend systems & clean UI  
-- 🚀 Creator of **VIRALIX** & **CREZUMIC**
+<br/><br/>
 
----
+<!-- Social Badges -->
+<a href="mailto:zzabbaskhan830@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/zeeshan-890">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-## 🚀 Tech Stack
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-
-### 🧰 Tools & Tech
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+```text
+Full Stack Developer based in Pakistan.
+BS Artificial Intelligence @ NUST.
+I build complete web products — not just CRUD apps.
+Two shipped products. One internship. Always building something.
+```
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeeshan-890&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/zeeshan-890" alt="Zeeshan's GitHub chart" />
-</p>
+- 🚀 Creator of **VIRALIX** and **CREZUMIC** — both live in production
+- 💼 Open to **remote jobs**, **on-site roles**, and **freelance projects**
+- 🤖 Currently going deeper on **LLM integrations** and **AI agents**
+- ⚡ I finish what I start
 
 ---
 
-## 🧩 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚀 VIRALIX — AI Social Media Management Tool
-- Multi-platform publishing (Facebook, Instagram, TikTok, YouTube)
-- AI content generation using Google Gemini
-- Bull Queue for job scheduling
-- Real-time analytics dashboard
-- JWT + Google OAuth authentication
+<div align="center">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+**Databases & Caching**
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Tools & DevOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
 
 ---
 
-### 💼 CREZUMIC — Resume & Portfolio Builder
-- ATS resume + portfolio creation
-- Custom subdomains
-- 30+ templates
-- Resume & JD optimization
-- Job tracking system
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 VIRALIX
+**AI Social Media Management Tool**
+
+Manage and publish content across Facebook, Instagram,
+TikTok and YouTube from one dashboard. AI writes your
+captions, Bull Queue handles scheduling, real-time
+analytics shows you what's working.
+
+**Stack:**
+`Next.js` `Node.js` `MongoDB` `Redis` `Google Gemini` `Bull Queue` `JWT` `OAuth`
+
+[![Live](https://img.shields.io/badge/🌐_Live-Demo-success?style=flat-square)](https://YOUR-VIRALIX-LINK)
+[![Repo](https://img.shields.io/badge/📁_Source-Code-blue?style=flat-square)](https://github.com/zeeshan-890/viralix)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 CREZUMIC
+**Resume & Portfolio Builder**
+
+Generates ATS-optimized resumes and deploys personal
+portfolio sites on custom subdomains. 30+ templates,
+built-in job tracker, and resume vs JD match scoring
+so you know before you apply.
+
+**Stack:**
+`React` `Node.js` `MongoDB` `Tailwind` `Express` `Custom Subdomains`
+
+[![Live](https://img.shields.io/badge/🌐_Live-Demo-success?style=flat-square)](https://YOUR-CREZUMIC-LINK)
+[![Repo](https://img.shields.io/badge/📁_Source-Code-blue?style=flat-square)](https://github.com/zeeshan-890/crezumic)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### MERN Full Stack Developer Intern — BloodShare
-- Built scalable backend using Node.js, MongoDB, Redis  
-- Implemented Meta WhatsApp API + Google OAuth  
-- Developed real-time chat using WebSockets  
-- Built admin panel & landing page using React + Tailwind  
+**Full Stack Developer Intern — BloodShare**
+
+Built the backend from scratch. REST APIs with Node.js,
+MongoDB + Redis for storage and caching, real-time chat
+via WebSockets, Meta WhatsApp API and Google OAuth
+integrations. Owned the admin panel and landing page
+end-to-end in React + Tailwind.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="mailto:zzabbaskhan830@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/zeeshan-890">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=zeeshan-890&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  ⚡ "Building intelligent systems that scale and solve real-world problems"
-</p>
+## 🏆 GitHub Trophies
 
-
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__zeeshanabbas__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zzabbaskhan830@gmail.com) 
-
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeeshan-890&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zeeshan-890&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zeeshan-890&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeeshan-890&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan-890&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeeshan-890&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zeeshan-890/zeeshan-890/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 📫 Let's Talk
+
+I'm straightforward to work with and I actually finish things.
+If you have a project, a role, or just want to talk tech — reach out.
+
+<div align="center">
+
+<a href="mailto:zzabbaskhan830@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*"I'd rather ship something real than perfect something nobody sees."*
+
+</div>
