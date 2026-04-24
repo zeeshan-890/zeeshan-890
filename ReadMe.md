@@ -170,8 +170,25 @@ end-to-end in React + Tailwind.
 ## 🔥 Detailed Contribution Activity
 
 <div align="center">
-  <img width="800" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight" />
+  <img width="800" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2025,2026" />
 </div>
+
+<details>
+<summary><b>📅 Year Selection</b></summary>
+<br/>
+
+<div align="center">
+
+| Year | Chart |
+|------|-------|
+| 2026 | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2026" /> |
+| 2025 | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2025" /> |
+| All Time | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111" /> |
+
+</div>
+
+</details>
+
 ---
 
 ## 📫 Let's Talk
