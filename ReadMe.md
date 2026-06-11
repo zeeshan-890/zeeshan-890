@@ -173,14 +173,14 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 <div align="center">
 
 <!-- Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://readme-stats-sigma-five.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <!-- Streak Stats -->
-<img width="49%" src="https://streak-stats.demolab.com?user=zeeshan-890&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=zeeshan-890&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="45%" src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -190,7 +190,7 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" />
 
 </div>
 
@@ -199,9 +199,11 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 ## 🗓️ Contribution Heatmap
 
 <div align="center">
+<div style="background-color:#0d1117; padding:16px; border-radius:8px; display:inline-block;">
 
-<img src="https://ghchart.rshah.org/zeeshan-890" alt="GitHub Contribution Heatmap" width="100%" />
+<img src="https://ghchart.rshah.org/239a3b/zeeshan-890" alt="GitHub Contribution Heatmap" width="100%" />
 
+</div>
 </div>
 
 ---
