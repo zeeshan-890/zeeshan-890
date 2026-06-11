@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Zeeshan+Abbas+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+VIRALIX+%26+CREZUMIC;Open+to+Remote+%2F+Freelance+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Zeeshan+Abbas+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;LangGraph+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Systems;I+build+AI+products+that+ship+to+production" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=zeeshan-890&style=for-the-badge&color=0e75b6" />
 
 <br/><br/>
 
-<!-- Social Badges -->
-<a href="mailto:zzabbaskhan830@gmail.com">
+<a href="mailto:zzabbaskhan839@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/muhammadzeeshanabbas">
@@ -31,54 +28,20 @@
 ## 👨‍💻 About Me
 
 ```text
-Full Stack Developer based in Pakistan.
-BS Artificial Intelligence @ NUST.
-I build complete web products — not just CRUD apps.
-Two shipped products. One internship. Always building something.
+AI Engineer & Full Stack Developer · Islamabad, Pakistan
+BS Artificial Intelligence @ NUST SEECS (2024–2028)
+
+I don't just integrate APIs — I build AI systems that run in production.
+Multi-agent pipelines. Real-time inference. Agentic platforms. Shipped.
 ```
 
-- 🚀 Creator of **VIRALIX** and **CREZUMIC** — both live in production
-- 💼 Open to **remote jobs**, **on-site roles**, and **freelance projects**
-- 🤖 Currently going deeper on **LLM integrations** and **AI agents**
-- ⚡ I finish what I start
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-
-**Databases & Caching**
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-**Tools & DevOps**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</div>
+- 🤖 Built **Synapse** — a 4-agent LangGraph pipeline with RAG, Human-in-the-Loop, and live web search
+- 🚀 Shipped **Crezumic** — an agentic AI career platform serving real users at [crezumic.com](https://crezumic.com)
+- 🧠 Built **StepSafe AI** — real-time fall detection with 99.31% accuracy on 67-subject sensor data
+- 💼 Interned at **BloodShare** — built the full backend for a real startup, remote
+- 🏆 **Hackathon Winner** — NYU Shanghai & NYU Abu Dhabi Vibe Coding Hackathon
+- 🌍 **Global 5th** — HackNation (MIT · OpenAI · Databricks)
+- ⚡ I finish what I start and I ship to production, not just GitHub
 
 ---
 
@@ -88,36 +51,53 @@ Two shipped products. One internship. Always building something.
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 VIRALIX
-**AI Social Media Management Tool**
+### 🔬 Synapse — Multi-Agent AI Research Assistant
 
-Manage and publish content across Facebook, Instagram,
-TikTok and YouTube from one dashboard. AI writes your
-captions, Bull Queue handles scheduling, real-time
-analytics shows you what's working.
+Production-grade 4-agent LangGraph pipeline. Each agent has a role: Clarity, Research, Validator, Synthesis. Conditional routing, Human-in-the-Loop interrupts, Tavily live web search, and OpenRouter LLM orchestration — all streaming in real time to a React dashboard via WebSockets.
 
 **Stack:**
-`Next.js` `Node.js` `MongoDB` `Redis` `Google Gemini` `Bull Queue` `JWT` `OAuth`
+`LangGraph` `FastAPI` `Python` `React` `PostgreSQL` `Docker` `CapRover` `nginx`
 
-[![Live](https://img.shields.io/badge/🌐_Live-Demo-success?style=flat-square)](https://YOUR-VIRALIX-LINK)
-[![Repo](https://img.shields.io/badge/📁_Source-Code-blue?style=flat-square)](https://github.com/zeeshan-890/viralix)
+[![Live](https://img.shields.io/badge/🌐_Live-synapse.zeeshan--abbas.tech-success?style=flat-square)](https://synapse.zeeshan-abbas.tech)
+[![Repo](https://img.shields.io/badge/📁_Repo-Source_Code-blue?style=flat-square)](https://github.com/zeeshan-890/Ai-research-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 CREZUMIC
-**Resume & Portfolio Builder**
+### 💼 Crezumic — Agentic AI Career Platform
 
-Generates ATS-optimized resumes and deploys personal
-portfolio sites on custom subdomains. 30+ templates,
-built-in job tracker, and resume vs JD match scoring
-so you know before you apply.
+Built solo. Job portal integrations, AI-powered job recommendations, ATS resume analyzer, JD-based resume builder with 9 custom templates, LinkedIn profile optimizer, and portfolio hosting with custom domain routing — live and serving real users.
 
 **Stack:**
-`React` `Node.js` `MongoDB` `Tailwind` `Express` `Custom Subdomains`
+`Next.js 16` `React 19` `TypeScript` `Node.js` `MongoDB` `OpenAI` `Gemini` `Vercel`
 
-[![Live](https://img.shields.io/badge/🌐_Live-Demo-success?style=flat-square)](https://YOUR-CREZUMIC-LINK)
-[![Repo](https://img.shields.io/badge/📁_Source-Code-blue?style=flat-square)](https://github.com/zeeshan-890/crezumic)
+[![Live](https://img.shields.io/badge/🌐_Live-crezumic.com-success?style=flat-square)](https://crezumic.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 StepSafe AI — Real-Time Fall Detection System
+
+End-to-end ML system: Flutter app streams phone IMU sensors at 50 Hz → FastAPI inference server → 2-stage XGBoost pipeline → WebSocket alerts to caregiver dashboard. **99.31% fall detection accuracy** on 67-subject MobiAct data with leakage-free subject-aware evaluation. 144-D orientation-invariant feature engineering.
+
+**Stack:**
+`Python` `XGBoost` `FastAPI` `Flutter` `SQLite` `WebSockets` `Docker`
+
+[![Repo](https://img.shields.io/badge/📁_Repo-Source_Code-blue?style=flat-square)](https://github.com/zeeshan-890/ems)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 BloodShare — Internship (Full Stack Developer)
+
+Real startup connecting blood donors with requesters. Built the full backend from scratch: blood request management system with Redis/BullQueue workers, real-time WebSocket chat, Firebase FCM push notifications in a Flutter app, geolocation-based donor search, and Google OAuth 2.0/JWT auth on PostgreSQL and MongoDB.
+
+**Stack:**
+`Node.js` `PostgreSQL` `MongoDB` `Redis` `BullQueue` `Firebase` `React` `Tailwind`
+
+[![Live](https://img.shields.io/badge/🌐_Live-bloodshare.pk-success?style=flat-square)](https://bloodshare.pk)
 
 </td>
 </tr>
@@ -125,15 +105,66 @@ so you know before you apply.
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-**Full Stack Developer Intern — BloodShare**
+<div align="center">
 
-Built the backend from scratch. REST APIs with Node.js,
-MongoDB + Redis for storage and caching, real-time chat
-via WebSockets, Meta WhatsApp API and Google OAuth
-integrations. Owned the admin panel and landing page
-end-to-end in React + Tailwind.
+**AI & Agents**
+
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-00C7B7?style=for-the-badge&logoColor=white" />
+
+**ML & Data**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+**Cloud & DevOps**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/CapRover-003366?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+| 🥇 | Vibe Coding Hackathon **Winner** | NYU Shanghai & NYU Abu Dhabi | Nov 2025 |
+|---|---|---|---|
+| 🌍 | HackNation **Global 5th Place** | MIT · OpenAI · Databricks | Apr 2026 |
 
 ---
 
@@ -141,57 +172,64 @@ end-to-end in React + Tailwind.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<!-- Stats + Streak side by side -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=zeeshan-890&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-
-
-## 🔥 Detailed Contribution Activity
-
-<div align="center">
-  <img width="800" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2025,2026" />
-</div>
-
-<details>
-<summary><b>📅 Year Selection</b></summary>
-<br/>
+## 🔥 Contribution Activity
 
 <div align="center">
 
-| Year | Chart |
-|------|-------|
-| 2026 | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2026" /> |
-| 2025 | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111&year=2025" /> |
-| All Time | <img width="400" src="https://ghchart.rshah.org/zeeshan-890?theme=tokyonight&background=111111" /> |
+<!-- Full contribution graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF" />
 
 </div>
 
-</details>
+---
+
+## 🗓️ Contribution Heatmap
+
+<div align="center">
+
+<!-- 2026 heatmap -->
+<img src="https://ghchart.rshah.org/58A6FF/zeeshan-890" alt="Zeeshan's GitHub Contribution Heatmap" width="100%" />
+
+</div>
+
+<div align="center">
+
+| Metric | Badge |
+|--------|-------|
+| Total Commits | ![commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zeeshan-890&query=$.public_repos&label=Public+Repos&color=58A6FF&style=flat-square) |
+| Profile | ![followers](https://img.shields.io/github/followers/zeeshan-890?label=Followers&style=flat-square&color=58A6FF) |
+| Stars Earned | ![stars](https://img.shields.io/badge/Stars-⭐_Check_Repos-yellow?style=flat-square) |
+
+</div>
 
 ---
 
 ## 📫 Let's Talk
 
-I'm straightforward to work with and I actually finish things.
-If you have a project, a role, or just want to talk tech — reach out.
+I build real things. If you have a project, an internship, a role, or just want to talk AI — reach out.
 
 <div align="center">
 
-<a href="mailto:zzabbaskhan830@gmail.com">
+<a href="mailto:zzabbaskhan839@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/muhammadzeeshanabbas">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://YOUR-PORTFOLIO">
+<a href="https://www.zeeshan-abbas.tech">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
