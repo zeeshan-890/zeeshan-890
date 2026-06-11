@@ -172,15 +172,14 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 
 <div align="center">
 
-<!-- Stats Card -->
-<img width="49%" src="https://readme-stats-sigma-five.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<!-- Streak Stats -->
-<img width="49%" src="https://streak-stats.demolab.com/?user=zeeshan-890&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<!-- WakaTime-style stats using githubtrends which works with any username -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeshan-890&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan-890&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img width="45%" src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshan-890&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeshan-890&theme=tokyonight&utcOffset=5" />
 
 </div>
 
