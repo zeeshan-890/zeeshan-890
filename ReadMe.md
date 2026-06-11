@@ -172,14 +172,15 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 
 <div align="center">
 
-<!-- Stats + Streak side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=zeeshan-890&theme=tokyonight&hide_border=true" />
+<!-- Stats Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-890&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- Streak Stats -->
+<img width="49%" src="https://streak-stats.demolab.com?user=zeeshan-890&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-890&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -189,8 +190,7 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 
 <div align="center">
 
-<!-- Full contribution graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" />
 
 </div>
 
@@ -200,18 +200,7 @@ Real startup connecting blood donors with requesters. Built the full backend fro
 
 <div align="center">
 
-<!-- 2026 heatmap -->
-<img src="https://ghchart.rshah.org/58A6FF/zeeshan-890" alt="Zeeshan's GitHub Contribution Heatmap" width="100%" />
-
-</div>
-
-<div align="center">
-
-| Metric | Badge |
-|--------|-------|
-| Total Commits | ![commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/zeeshan-890&query=$.public_repos&label=Public+Repos&color=58A6FF&style=flat-square) |
-| Profile | ![followers](https://img.shields.io/github/followers/zeeshan-890?label=Followers&style=flat-square&color=58A6FF) |
-| Stars Earned | ![stars](https://img.shields.io/badge/Stars-⭐_Check_Repos-yellow?style=flat-square) |
+<img src="https://ghchart.rshah.org/zeeshan-890" alt="GitHub Contribution Heatmap" width="100%" />
 
 </div>
 
