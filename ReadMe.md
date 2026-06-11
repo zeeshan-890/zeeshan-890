@@ -14,13 +14,13 @@
 <a href="mailto:zzabbaskhan830@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/muhammadzeeshanabbas">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/zeeshan-890">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://YOUR-PORTFOLIO">
+<a href="https://www.zeeshan-abbas.tech">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -152,20 +152,7 @@ end-to-end in React + Tailwind.
 
 ---
 
-## � Contribution Heatmap
 
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan-890&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img width="800" src="https://raw.githubusercontent.com/zeeshan-890/zeeshan-890/output/github-contribution-grid-snake-dark.svg" />
-</div>
----
 
 ## 🔥 Detailed Contribution Activity
 
